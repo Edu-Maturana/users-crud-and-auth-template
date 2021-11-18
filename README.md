@@ -1,5 +1,5 @@
 # Users CRUD and auth template
-Build with NodeJS, Express & MongoDB :tw-2705: :tw-1f60e:
+Build with NodeJS, Express & MongoDB:tw-1f60e: :tw-1f49a:
 This is an API template to handle users and authentication with JSON web tokens.
 
 ### Install dependencies
