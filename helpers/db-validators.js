@@ -26,3 +26,9 @@ const existeUsuarioPorId = async( id ) => {
         throw new Error(`El id no existe ${ id }`);
     }
 }
+
+module.exports = {
+    esRoleValido,
+    emailExiste,
+    existeUsuarioPorId
+}
